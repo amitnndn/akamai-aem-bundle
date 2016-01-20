@@ -7,3 +7,7 @@ Steps to set up:<br/>
 4. Install the OSGI bundle in your OSGI console @ http://{aem-author-url}:{port-number}/system/console/ <br/>
 5. After installing the bundle, install "json-simple-1.1.1.jar" file through the same console. <br/>
 6. Enter the required content in the configuration tab of the bundle. <br/>
+
+Developed by:<br/>
+Amit Nandan Periyapatna<br/>
+amit_nndn@yahoo.co.in
